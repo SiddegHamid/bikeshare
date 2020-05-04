@@ -1,0 +1,12 @@
+Sources
+-------
+
+* slides-linear-regression.pdf 
+
+from: https://risk-engineering.org/static/PDF/slides-linear-regression.pdf
+
+
+* LinearRegression_fulltext.pdf
+
+from: https://open.umn.edu/opentextbooks/textbooks/linear-regression-using-r-an-introduction-to-data-modeling
+
